@@ -1,0 +1,10 @@
+<?version="1.0" encoding="utf-8"?>
+<school name="sName" principle="someone">
+    <Students>
+        <Student>
+            <rno>1</rno>
+            <name>"Ganesh"</name>
+            <marks>69</marks>
+        </Student>
+    </Students>
+</school>

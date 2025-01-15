@@ -5,3 +5,5 @@ YAML allows comments with `#`.
 # This is a comment
 key: value  # Inline comment
 ```
+
+yaml donot support multiline comments  

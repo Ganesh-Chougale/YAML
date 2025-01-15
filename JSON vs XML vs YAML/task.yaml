@@ -1,0 +1,8 @@
+School:
+  name: sName
+  principle: someone
+  Students:
+    student:
+      rno: 1
+      name: ganesh
+      marks: 69
